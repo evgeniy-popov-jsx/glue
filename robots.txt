@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+# не индексировать служебные страницы (если есть)
+Disallow: /admin/
+Disallow: /api/
+Disallow: /private/
+
+# SEO файлы
+Sitemap: https://nano-tex.ru/sitemap.xml
