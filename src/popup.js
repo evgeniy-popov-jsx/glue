@@ -3,7 +3,6 @@ const popupClose = document.getElementById('popupClose');
 const button = document.getElementById('button');
 
 function openPopup() {
-  console.log('klik');
   popup.classList.add('active');
 }
 
